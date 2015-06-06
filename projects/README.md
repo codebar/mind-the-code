@@ -17,3 +17,5 @@ Have fun, and if your group gets stuck, flag down a floating coach or organizer,
 3. [Pose name generator](3-pose-name-generator.md)
 4. [Online mood ring](4-online-mood-ring.md)
 5. [To-do list](5-to-do-list.md)
+
+Alternatively, if you would prefer to follow a tutorial, a JavaScript OOD tutorial is available in this repo from the root directory.
